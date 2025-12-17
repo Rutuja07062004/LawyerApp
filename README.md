@@ -1,4 +1,4 @@
-# 📱 LawyerApp (ABC.ai)
+# 📱 LawyerApp 
 
 A modern **React Native (Expo)** mobile application designed to help lawyers efficiently manage cases, documents, and client information with a clean, Outlook-inspired UI.
 
